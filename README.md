@@ -255,3 +255,20 @@ Other Events
 Event names:
 
 onToggle
+
+
+>>> React hooks
+
+it is list of function provided by react which be used in functional component.
+
+
+>> useState   hook to maintain state in function based component
+
+e.g  const [counterState, setCounterState] = useState({
+    counter: 1
+});
+
+where counterState is initial state and setCounterState is the method to set the counter state.
+
+
+>>> Stateful and stateless component
